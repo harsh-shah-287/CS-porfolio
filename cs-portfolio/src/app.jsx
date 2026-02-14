@@ -1,7 +1,9 @@
+import Hero from "./sections/hero"
+
 const App = () => {
     return (
         <>
-            <Hero /> 
+            <Hero />
         </>
     )
 }
